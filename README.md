@@ -148,3 +148,4 @@ Close the launcher, remove the junction link, and copy the folder back to its or
 - [NetPing-DNSGameSwitcher](../NetPing-DNSGameSwitcher) — Game server ping tester, Winsock reset & DNS switcher
 
 *Independent open-source Windows utility. Not affiliated with Valve, Epic Games, or Microsoft.*
+ 
